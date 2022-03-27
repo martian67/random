@@ -8,6 +8,7 @@ while True:
     word = input()
     l = len(word)
     print('hello players and welcome')
+    print('your guesses will be scored as (# letters correct , # letters correct and in the correct position)')
 
     while True:
         def score(guess):
