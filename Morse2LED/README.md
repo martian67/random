@@ -1,4 +1,4 @@
-Blinks an LED in Morse Code translated phrases
+#Blinks an LED in Morse Code translated phrases
 
 Blink.py:		Turns a GPIO wired LED on/off
 
